@@ -148,7 +148,7 @@ git status
 
 ##### 3.9 แก้ไขไฟล์ greeting.txt
 ```bash
-echo "Greeting message line 2" >> greeting.txt
+echo "hiy" >> greeting.txt
 ```
 
 ##### 3.10 ตรวจสอบสถานะ
